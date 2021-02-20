@@ -1,1 +1,1 @@
-# devnet-git
+# NetDevOps labs or POCs for demos.
